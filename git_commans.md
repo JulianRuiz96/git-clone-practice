@@ -18,4 +18,4 @@ git commit: Guarda los cambios en el repositorio local
 
 git push: Envía los cambios locales a un repositorio remoto
 
-git merge: Fusiona cambios de una rama a otra, sin cambiar la rama actual
+git merge: Fusiona cambios de una rama a otra, sin cambiar la rama actual.
